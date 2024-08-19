@@ -39,3 +39,4 @@ Feel free to go within each folder and ask questions or provide more resources (
 
 After reading each level and getting used to these additional set of resources, please type your name below:
 
+Shane Meade
